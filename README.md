@@ -35,7 +35,7 @@ development to data, machine learning, and product engineering.
 - Git & GitHub
 - WebStorm
 - PyCharm
-- VS Code
+- IntelliJ IDEA
 - API Development
 - Database Design
 
