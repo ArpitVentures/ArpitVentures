@@ -1,4 +1,4 @@
-# Hi there, I'm Arpit Srivastava 👋
+# Hi there, I'm Arpit Srivastava 👋🏻
 
 ### CSE Undergraduate | AI/ML | Full-Stack Developer | Technical Lead
 
